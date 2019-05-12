@@ -27,7 +27,7 @@ You can find it at https://github.com/Tobias-Schoch/Datenbanksysteme.git
 
 ## 💾 Features
 
-- Give the App a random String 
-- Flat Design
-- Just press with your keyword "Verschlüsseln" 
-- Get a 23 char password
+- Fully setup Database
+- Register in Java and the programm adds data to the database
+- Purchase a hotel in a given time and date and the java + sql code does the rest
+- Search for available hotels with certain filters like rating, price or other things
