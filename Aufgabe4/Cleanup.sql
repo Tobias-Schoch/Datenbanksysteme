@@ -1,0 +1,13 @@
+drop table Ferienwohnung cascade constraints;
+drop table bietet cascade constraints;
+drop table beinhaltet cascade constraints;
+drop table Adresse cascade constraints;
+drop table Bilder cascade constraints;
+drop table Land cascade constraints;
+drop table Ausstattung cascade constraints;
+drop table Touristenattraktion cascade constraints;
+drop table Buchung cascade constraints;
+drop table Kunde cascade constraints;
+drop table Auszahlung cascade constraints;
+drop table storniert cascade constraints;
+purge recyclebin;
